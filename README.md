@@ -1,7 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/114364900/192166659-8ee3ed1f-fab2-4a48-b1ef-9f9d53439bdf.png" height="200">
 </p>
 
-<h1 align="center">Ultraviolet</h1>
+<h1 align="center">Sussy Baka Proxy</h1>
 
 <p align="center">Advanced web proxy used for evading internet censorship or accessing websites in a controlled sandbox.<br><br>
 Ultraviolet works by intercepting HTTP requests with a service worker script that follows the <a href="https://github.com/tomphttp">TompHTTP</a> specifications</p>
@@ -157,27 +157,5 @@ location / {
 
 ```
 
-## Core Scripts
-
-[Configuration](#configuration) mentions a few scripts that make up Ultraviolet. To get documentation for what each of the scripts do, check out the [documentation](https://github.com/titaniumnetwork-dev/Ultraviolet-Core) for them in their standalone repository.
-
-# Main Scripts After Building
-
-The client-hooking & service worker scripts required for UV are located in [ultraviolet-scripts](https://github.com/titaniumnetwork-dev/ultraviolet-scripts)
-
-- Scripts
-    - `uv.sw.js` Service worker gateway
-    - `uv.sw-handler.js` - Service worker handler
-    - `uv.bundle.js` Webpack compiled Ultraviolet rewriter
-    - `uv.handler.js` Client-side hooking
-    - `uv.config.js` Configuration
-
-# Authors
-
-- Caracal.js (Creator of Ultraviolet)
-- Divide (Creator of TOMP)
-
-# Credits
-- https://github.com/tomphttp
 
 
