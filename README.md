@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/titaniumnetwork-dev/ultraviolet-static/main/uv1.png" height="200">
+<p align="center"><img src="https://raw.githubusercontent.com/GitHubFn4Us/qw/blob/main/uv1.png" height="200">
 </p>
 
 <h1 align="center">Ultraviolet</h1>
